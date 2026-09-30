@@ -47,4 +47,3 @@ Le dernier contrôle nécessite le serveur de développement et la base locale i
 React, TypeScript, Vinext/Vite et Worker Cloudflare ; Drizzle/D1 pour les salons. Le serveur filtre les secrets par joueur, vérifie les actions de l’hôte et les votes, et applique une limitation de requêtes. L’identité invitée repose sur un cookie HttpOnly ; les modifications concurrentes utilisent une révision optimiste.
 
 Les sessions locales dépendent du stockage du navigateur. Les comptes, amis, notifications et installation PWA hors ligne ne sont pas encore implémentés. Le dépôt contient le projet ; sa publication sur GitHub ne constitue pas un déploiement du service en ligne.
-

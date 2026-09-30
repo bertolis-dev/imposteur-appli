@@ -1,0 +1,107 @@
+{
+  "continue": {
+    "iistart": "2019-02-27T00:27:13Z",
+    "continue": "||"
+  },
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Rihanna_Fenty_2018.png",
+        "to": "File:Rihanna Fenty 2018.png"
+      }
+    ],
+    "pages": {
+      "76908412": {
+        "pageid": 76908412,
+        "ns": 6,
+        "title": "File:Rihanna Fenty 2018.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 686146,
+            "width": 651,
+            "height": 867,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rihanna_Fenty_2018.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=76908412",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-03-20 03:05:36",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Rihanna Fenty 2018",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from external sources with reviewed licenses|Videos from Vimeo|Rihanna in 2018|Fenty Beauty",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rihanna for Fenty Beauty campaign",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "17 April 2018 12:51 EST  Parallel Uploader",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/265227639\" href=\"https://vimeo.com/265227639\">Fenty Beauty by Rihanna</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/265227639\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/sigmatechno\">SIGMA</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

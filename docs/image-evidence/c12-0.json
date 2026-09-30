@@ -1,0 +1,103 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "126240194": {
+        "pageid": 126240194,
+        "ns": 6,
+        "title": "File:Lionel Messi WC2022.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 128152,
+            "width": 720,
+            "height": 744,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lionel_Messi_WC2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_WC2022.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126240194",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-12-02 23:04:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lionel Messi WC2022",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files from external sources with reviewed licenses|2022 FIFA World Cup Match 24, Argentina v Mexico|Photos by Hossein Zohrevand for Tasnim News Agency|Lionel Messi in 2022|Sportspeople with tattoos|Portrait photographs of Lionel Messi|Photos from Tasnim News Agency",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Argentina FOOTBALL Messi con la <a href=\"https://en.wikipedia.org/wiki/it:nazionale_argentina\" class=\"extiw\" title=\"w:it:nazionale argentina\">w:it:nazionale argentina</a> durante i <a href=\"https://en.wikipedia.org/wiki/it:Mondiali_del_2022\" class=\"extiw\" title=\"w:it:Mondiali del 2022\">w:it:Mondiali del 2022</a> i Qatar",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-12-02 23:45:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.tasnimnews.ir/fa/media/1401/09/06/2812523/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%AA%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-%D9%88-%D9%85%DA%A9%D8%B2%DB%8C%DA%A9-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-2022-%D9%82%D8%B7%D8%B1#photo=43\">Original photo</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.tasnimnews.ir\">Tasnim News Agency</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

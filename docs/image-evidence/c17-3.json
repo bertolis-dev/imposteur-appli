@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Camille_Combal_lors_du_ZEVENT_2026.jpg",
+        "to": "File:Camille Combal lors du ZEVENT 2026.jpg"
+      }
+    ],
+    "pages": {
+      "198969567": {
+        "pageid": 198969567,
+        "ns": 6,
+        "title": "File:Camille Combal lors du ZEVENT 2026.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8623833,
+            "width": 2890,
+            "height": 4335,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Camille_Combal_lors_du_ZEVENT_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Camille_Combal_lors_du_ZEVENT_2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198969567",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-06 10:29:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Camille Combal lors du ZEVENT 2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Self-published work missing SDC copyright license|Camille Combal|ZEVENT 2026 by Mickaël Schauli",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Camille Combal lors du ZEVENT 2026.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-09-05 15:28:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q123454256\" class=\"extiw\" title=\"d:Q123454256\"><span title=\"2002- writer, 2024-2025 Wikimedian in residence at Urfist de Strasbourg, 2025- secretary of Wikimedia France\">Mickaël Schauli</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
