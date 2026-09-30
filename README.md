@@ -14,6 +14,8 @@ L’audit complet et les sources sont dans [docs/IMAGE-AUDIT.md](docs/IMAGE-AUDI
 
 ## Installation et développement
 
+Sur téléphone, ouvrir le jeu hébergé puis utiliser « Ajouter à l’écran d’accueil » dans le menu de partage du navigateur. Le manifeste et les icônes iOS/Android donnent au raccourci le nom Démasq et son masque violet. L’accueil s’ouvre directement ; le tutoriel reste accessible dans les paramètres. Une connexion reste nécessaire au chargement et aux salons en ligne.
+
 Node.js >= 22.13 et npm sont nécessaires.
 
 ```sh
