@@ -1,0 +1,117 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg",
+        "to": "File:Arnold Schwarzenegger - Austrian World Summit 2026 BHO-2906.jpg"
+      }
+    ],
+    "pages": {
+      "194014274": {
+        "pageid": 194014274,
+        "ns": 6,
+        "title": "File:Arnold Schwarzenegger - Austrian World Summit 2026 BHO-2906.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2622359,
+            "width": 1577,
+            "height": 2103,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194014274",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-06-16 22:13:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Arnold Schwarzenegger - Austrian World Summit 2026 BHO-2906",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Personality rights warning|Self-published work|Images by Dromedar61|Files with coordinates missing SDC location of creation|Supported by Wikimedia Österreich in 2026|Arnold Schwarzenegger in 2026|Vienna photographs taken on 2026-06-16|Austrian World Summit 2026",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.206260",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "16.365640",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Arnold_Schwarzenegger\" class=\"extiw\" title=\"en:Arnold Schwarzenegger\">Arnold Schwarzenegger</a> at the 10th <a href=\"https://en.wikipedia.org/wiki/Austrian_World_Summit\" class=\"extiw\" title=\"en:Austrian World Summit\">Austrian World Summit</a> at the <a href=\"https://en.wikipedia.org/wiki/Hofburg\" class=\"extiw\" title=\"en:Hofburg\">Hofburg</a> in <a href=\"https://en.wikipedia.org/wiki/Vienna\" class=\"extiw\" title=\"en:Vienna\">Vienna</a> (<a href=\"https://en.wikipedia.org/wiki/Austria\" class=\"extiw\" title=\"en:Austria\">Austria</a>)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-06-16 09:18:51",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dromedar61\" title=\"User:Dromedar61\">Bernhard Holub</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

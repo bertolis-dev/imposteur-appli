@@ -1,0 +1,107 @@
+{
+  "query": {
+    "pages": {
+      "176338533": {
+        "pageid": 176338533,
+        "ns": 6,
+        "title": "File:Michael Jackson with Grammy Awards in 1984.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4198370,
+            "width": 2280,
+            "height": 3160,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Michael_Jackson_with_Grammy_Awards_in_1984.jpg/960px-Michael_Jackson_with_Grammy_Awards_in_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 721,
+            "thumbheight": 1000,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Michael_Jackson_with_Grammy_Awards_in_1984.jpg/1920px-Michael_Jackson_with_Grammy_Awards_in_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Michael_Jackson_with_Grammy_Awards_in_1984.jpg/960px-Michael_Jackson_with_Grammy_Awards_in_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 721,
+              "height": 1000,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Michael_Jackson_with_Grammy_Awards_in_1984.jpg/1920px-Michael_Jackson_with_Grammy_Awards_in_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Michael_Jackson_with_Grammy_Awards_in_1984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_with_Grammy_Awards_in_1984.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176338533",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-10-08 16:55:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Michael Jackson with Grammy Awards in 1984",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images with extracted images|PD US no notice 1989|PD-scan (PD-US-1978-89)|Michael Jackson in 1984|1984 black and white portrait photographs of men|United Press International photographs|PD-US missing SDC copyright status|1984 Grammy Awards",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Superstar Michael Jackson holds several Grammy Awards he won at the 1984 Grammy Award ceremonies at the Shrine Auditorium in Los Angeles Tuesday. His top award was the album of the year, \"Thriller,\" which sold nearly 30 million copies.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "February 28, 1984",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.newspapers.com/image/126840433\">[1]</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.newspapers.com/image/747173922\">[2]</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.worthpoint.com/worthopedia/1984-press-photo-smiling-king-pop-1992051656\">[3]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "United Press International",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "query": {
+    "pages": {
+      "129898082": {
+        "pageid": 129898082,
+        "ns": 6,
+        "title": "File:Antoine Dupont February 2023.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 575940,
+            "width": 1182,
+            "height": 1594,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Antoine_Dupont_February_2023.jpg/960px-Antoine_Dupont_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 741,
+            "thumbheight": 1000,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/99/Antoine_Dupont_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Antoine_Dupont_February_2023.jpg/960px-Antoine_Dupont_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 741,
+              "height": 1000,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/99/Antoine_Dupont_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Antoine_Dupont_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antoine_Dupont_February_2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129898082",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-23 08:50:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Antoine Dupont February 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Antoine Dupont|Extracted images|2023 Six Nations Italy vs France|Files from Stefano Delfrate Flickr stream",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.933954",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "12.454676",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2023 Six Nations Italy vs France",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-02-05 16:13:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/57810730@N03/52679033060/\">https://www.flickr.com/photos/57810730@N03/52679033060/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "stede64",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

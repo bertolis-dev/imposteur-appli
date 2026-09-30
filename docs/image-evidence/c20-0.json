@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Usain_Bolt_Rio_100m_final_2016i-cr.jpg",
+        "to": "File:Usain Bolt Rio 100m final 2016i-cr.jpg"
+      }
+    ],
+    "pages": {
+      "50684435": {
+        "pageid": 50684435,
+        "ns": 6,
+        "title": "File:Usain Bolt Rio 100m final 2016i-cr.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 692817,
+            "width": 1388,
+            "height": 2161,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Usain_Bolt_Rio_100m_final_2016i-cr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Rio_100m_final_2016i-cr.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50684435",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-08-15 07:17:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Usain Bolt Rio 100m final 2016i-cr",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Agencia Brasil|Usain Bolt in 2016|Athletics at the 2016 Summer Olympics – Men's 100 metres (final)|Portraits of Usain Bolt|Photographs by Fernando Frazão",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rio de Janeiro - O jamaicano Usain Bolt, garantiu o ouro e fez história ao conquistar pela terceira vez o título de homem mais rápido do mundo nos 100 metros rasos em uma Olimpíada (Fernando Frazão/Agência Brasil).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-08-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://agenciabrasil.ebc.com.br/rio-2016/foto/2016-08/rio-de-janeiro-o-jamaicano-usain-bolt-garantiu-o-ouro-e-fez-historia-ao\">[1]</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://agenciabrasil.ebc.com.br/rio-2016/foto/2016-08/final-dos-100-metros-rasos-no-engenhao\">[2]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Fernando Frazão/Agência Brasil",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 br",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 br",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-br",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Léon_Marchand,_2023_Pac-12_Championships,_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg",
+        "to": "File:Léon Marchand, 2023 Pac-12 Championships, 400 yard individual medley preliminaries - 3 March 2023.jpg"
+      }
+    ],
+    "pages": {
+      "129277178": {
+        "pageid": 129277178,
+        "ns": 6,
+        "title": "File:Léon Marchand, 2023 Pac-12 Championships, 400 yard individual medley preliminaries - 3 March 2023.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2715796,
+            "width": 3456,
+            "height": 4608,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/L%C3%A9on_Marchand%2C_2023_Pac-12_Championships%2C_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Marchand,_2023_Pac-12_Championships,_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129277178",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-03-04 23:25:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Léon Marchand, 2023 Pac-12 Championships, 400 yard individual medley preliminaries - 3 March 2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Topless men in Washington (state)|Léon Marchand|Self-published work|Images with extracted images|Topless male swimmers|Male sixpacks|Topless men standing",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Léon Marchand in the preliminaries of the 400 yard individual medley (preliminary heat 4 of 4, lane 4) at the 2023 Pac-12 Men's Swimming Championships on Friday 3 March 2023 (Day 3) in the competition natatorium at King County Aquatic Center in Federal Way, Washington.<br>-I, Tanis Coralee Leonhardi, took this picture standing in seating sections M through X, specifically in the Arizona State Sun Devils-designated seating area. Léon was friendly and looked at me when I was taking pictures. The only editing I did to the picture after taking it and before uploading it to Wikimedia Commons was rotation (specifically into vertical using the Photos application for iOS).<br>-Additional specifics: Front and center in the picture, Léon Marchand of the Arizona State Sun Devils has his torso aligned with the step on starting block four while waiting for the start of the race. Behind him in the picture, Ron Polonsky of Stanford Cardinal puts a foot on starting block five as he waits.<br>-I do not consent to nor do I support the misuse/misportrayal of my work and the event(s) the picture documents.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-03-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tanis_Coralee_Leonhardi\" title=\"User:Tanis Coralee Leonhardi\">Tanis Coralee Leonhardi</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "continue": {
+    "iistart": "2025-06-02T15:15:26Z",
+    "continue": "||"
+  },
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Scarlett_Johansson_293_(cropped2).jpg",
+        "to": "File:Scarlett Johansson 293 (cropped2).jpg"
+      }
+    ],
+    "pages": {
+      "166619031": {
+        "pageid": 166619031,
+        "ns": 6,
+        "title": "File:Scarlett Johansson 293 (cropped2).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4221926,
+            "width": 2128,
+            "height": 2992,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Scarlett_Johansson_293_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_293_(cropped2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=166619031",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-06-02 15:22:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Scarlett Johansson 293 (cropped2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Personality rights warning|WikiPortraits at 2025 Cannes Film Festival|Scarlett Johansson at the premiere of A Private Life, Cannes Film Festival 2025",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "CANNES, FRANCE - 20 MAY 2025: Scarlett Johansson attends the \"Vie Privée\" (A Private Life) red carpet at the 78th annual Cannes Film Festival",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-05-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:Scarlett_Johansson_293.jpg\" title=\"File:Scarlett Johansson 293.jpg\">File:Scarlett Johansson 293.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:YantsImages\" title=\"User:YantsImages\">YantsImages</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

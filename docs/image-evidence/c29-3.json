@@ -1,0 +1,111 @@
+{
+  "query": {
+    "pages": {
+      "136452335": {
+        "pageid": 136452335,
+        "ns": 6,
+        "title": "File:Iga Świątek (2023 US Open) 18 (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1615377,
+            "width": 1771,
+            "height": 2444,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg/960px-Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 724,
+            "thumbheight": 1000,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg/960px-Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 724,
+              "height": 1000,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Iga_%C5%9Awi%C4%85tek_%282023_US_Open%29_18_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iga_%C5%9Awi%C4%85tek_(2023_US_Open)_18_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=136452335",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-08-25 19:44:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Iga Świątek (2023 US Open) 18 (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Images with extracted images|Extracted images|2023 US Open (tennis) practice|Iga Świątek at the 2023 US Open",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Iga Świątek at practice with Caroline Wozniacki in Arthur Ashe Stadium ahead of the 2023 US Open",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-08-23 13:31:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

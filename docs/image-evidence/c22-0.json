@@ -1,0 +1,107 @@
+{
+  "continue": {
+    "iistart": "2020-04-13T00:44:26Z",
+    "continue": "||"
+  },
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Ed_Sheeran-6826_(cropped).jpg",
+        "to": "File:Ed Sheeran-6826 (cropped).jpg"
+      }
+    ],
+    "pages": {
+      "89094299": {
+        "pageid": 89094299,
+        "ns": 6,
+        "title": "File:Ed Sheeran-6826 (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7679241,
+            "width": 2731,
+            "height": 3367,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ed_Sheeran-6826_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ed_Sheeran-6826_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89094299",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-08-06 05:21:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ed Sheeran-6826 (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Extracted images|Uploaded with LrMediaWiki|Supported by Wikimedia Deutschland 2018|2018 Berlin Film Festival/Photo Project|Press conferences of the 2018 Berlin Film Festival|Ed Sheeran in 2018|Items with ticket accreditation|Photographs by Harald Krichel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Singer-songwriter <a href=\"https://en.wikipedia.org/wiki/Ed_Sheeran\" class=\"extiw\" title=\"en:Ed Sheeran\">Ed Sheeran</a> at the <a href=\"https://en.wikipedia.org/wiki/68th_Berlin_International_Film_Festival\" class=\"extiw\" title=\"en:68th Berlin International Film Festival\">68th Berlin International Film Festival</a> 2018",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-02-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Harald_Krichel\" title=\"User:Harald Krichel\">Harald Krichel</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

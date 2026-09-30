@@ -1,0 +1,112 @@
+{
+  "query": {
+    "pages": {
+      "142172036": {
+        "pageid": 142172036,
+        "ns": 6,
+        "title": "File:Inoxtag-2023.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 173930,
+            "width": 796,
+            "height": 1041,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Inoxtag-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 765,
+            "thumbheight": 1000,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Inoxtag-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 765,
+              "height": 1000
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Inoxtag-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inoxtag-2023.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142172036",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-12-15 00:16:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Inoxtag-2023",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Inoxtag|Files from external sources with reviewed licenses|Images from YouTube|Still images of YouTube videos",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Inoxtag en 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-12-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=pFpjyAp8aJ0&amp;ab\">YouTube</a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=pFpjyAp8aJ0&amp;ab\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "ZACK",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@ZackNani\">ZACK  </a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

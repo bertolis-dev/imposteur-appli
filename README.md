@@ -7,7 +7,7 @@ Jeu social d’imposteurs en français pour 3 à 12 joueurs, sur un téléphone 
 - Distribution secrète avec portrait, deux modes (identité différente ou imposteur sans personnage), indices oraux et votes secrets sans minuteur.
 - Scores cumulés, classement, rotations des rôles, historique et reprise locale.
 - Salons invités : code de partage, préparation des joueurs, chat, reconnexion et transfert de l’hôte. Synchronisation HTTP périodique et stockage D1.
-- 76 identités conservées dans le catalogue. 25 images contrôlées, dont 24 jouables en paires compatibles. Sherlock Holmes reste hors sélection en attendant un partenaire illustré. Les 51 identités sans image validée sont exclues du tirage.
+- 176 identités conservées dans le catalogue. 125 images contrôlées, dont 124 jouables en paires compatibles. Sherlock Holmes reste hors sélection en attendant un partenaire illustré. Les 51 identités sans image validée sont exclues du tirage.
 - Images WebP locales, crédits et liens de licence dans chaque carte. La confirmation de consultation attend le décodage du portrait.
 
 L’audit complet et les sources sont dans [docs/IMAGE-AUDIT.md](docs/IMAGE-AUDIT.md) et `docs/image-evidence/`. Les droits des images sont ceux de leurs licences respectives ; aucune licence globale sur ces images n’est implicite.

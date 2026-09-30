@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Brad_Pitt-69858.jpg",
+        "to": "File:Brad Pitt-69858.jpg"
+      }
+    ],
+    "pages": {
+      "152113880": {
+        "pageid": 152113880,
+        "ns": 6,
+        "title": "File:Brad Pitt-69858.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1891056,
+            "width": 1683,
+            "height": 2244,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Brad_Pitt-69858.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Brad_Pitt-69858.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152113880",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-02 11:49:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Brad Pitt-69858",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Personality rights warning|Uploaded with LrMediaWiki|2024 Venice Film Festival|Brad Pitt in 2024|Supported by Wikimedia Deutschland 2024|Wolfs (film)|WikiPortraits at 2024 Venice Film Festival|Photographs by Harald Krichel from 2024",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Actor <a href=\"https://en.wikipedia.org/wiki/Brad_Pitt\" class=\"extiw\" title=\"en:Brad Pitt\">Brad Pitt</a> at the <a href=\"https://en.wikipedia.org/wiki/81st_Venice_International_Film_Festival\" class=\"extiw\" title=\"en:81st Venice International Film Festival\">81st Venice International Film Festival</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q640\" class=\"extiw\" title=\"d:Q640\"><span title=\"German photographer; former vice chair of Wikimedia Deutschland\">Harald Krichel</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

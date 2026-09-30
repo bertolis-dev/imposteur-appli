@@ -1,0 +1,97 @@
+{
+  "query": {
+    "pages": {
+      "184770944": {
+        "pageid": 184770944,
+        "ns": 6,
+        "title": "File:Venus Williams (2025 DC Open) crop.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1322607,
+            "width": 1881,
+            "height": 2070,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Venus_Williams_%282025_DC_Open%29_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venus_Williams_(2025_DC_Open)_crop.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184770944",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-02-22 18:12:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Venus Williams (2025 DC Open) crop",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Extracted images|Venus Williams in 2025",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Venus Williams speaking to the press ahead of the 2025 Washington Open",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-07-20 10:38:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:Venus_Williams_(2025_DC_Open)_034.jpg\" title=\"File:Venus Williams (2025 DC Open) 034.jpg\">File:Venus_Williams_(2025_DC_Open)_034.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

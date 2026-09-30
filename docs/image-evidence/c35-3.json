@@ -1,0 +1,111 @@
+{
+  "query": {
+    "pages": {
+      "195821179": {
+        "pageid": 195821179,
+        "ns": 6,
+        "title": "File:Portrait de Soprano lors du festival des Alpagas bleus à Saverne en 2026.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2434033,
+            "width": 1689,
+            "height": 2534,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg/960px-Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 666,
+            "thumbheight": 1000,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg/960px-Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 666,
+              "height": 1000,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_de_Soprano_lors_du_festival_des_Alpagas_bleus_%C3%A0_Saverne_en_2026.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195821179",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-17 19:52:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Portrait de Soprano lors du festival des Alpagas bleus à Saverne en 2026",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Soprano (rapper)|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Portrait de Soprano lors du festival des Alpagas bleus à Saverne en 2026",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2026-07-17 00:36:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q123454256\" class=\"extiw\" title=\"d:Q123454256\"><span title=\"2002- writer, 2024-2025 Wikimedian in residence at Urfist de Strasbourg, 2025- secretary of Wikimedia France\">Mickaël Schauli</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

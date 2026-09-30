@@ -1,0 +1,109 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+        "to": "File:Stephen King at the 2024 Toronto International Film Festival 2 (cropped).jpg"
+      }
+    ],
+    "pages": {
+      "153369127": {
+        "pageid": 153369127,
+        "ns": 6,
+        "title": "File:Stephen King at the 2024 Toronto International Film Festival 2 (cropped).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 651682,
+            "width": 1359,
+            "height": 1684,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153369127",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-30 09:50:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Stephen King at the 2024 Toronto International Film Festival 2 (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Personality rights warning|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Images with extracted images|Extracted images|Information field template with formatting|Old men in 2024|WikiPortraits at 2024 Toronto International Film Festival|Portraits of Stephen King|77-year-old human males|WikiPortraits photos by Kevin Payravi|2024 TIFF Premiere of The Life of Chuck",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Stephen_King\" class=\"extiw\" title=\"en:Stephen King\">Stephen King</a>, author, at the 2024 <a href=\"https://en.wikipedia.org/wiki/Toronto_International_Film_Festival\" class=\"extiw\" title=\"en:Toronto International Film Festival\">Toronto International Film Festival</a> (TIFF) for the movie <i>The Life of Chuck</i>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-06 17:27:35",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kevin_Payravi\" title=\"User:Kevin Payravi\">Kevin Payravi</a>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "Kevin Payravi / WikiPortraits",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

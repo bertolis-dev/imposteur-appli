@@ -28,6 +28,31 @@ const groups: [string, string, Character['image_type'], string[]][] = [
   ['Acteurs / Actrices','Cinéma français','REAL_PERSON',['Omar Sy','Jean Dujardin','Marion Cotillard','Audrey Tautou']],
   ['Célébrités','Télévision française','REAL_PERSON',['Alain Chabat','Jamel Debbouze','Éric Antoine','Camille Combal']],
   ['Personnages fictifs','Détectives','CHARACTER',['Sherlock Holmes','Hercule Poirot','Arsène Lupin','Miss Marple']],
+  ['Sportifs','Basket-ball','REAL_PERSON',['Michael Jordan','LeBron James','Stephen Curry','Kobe Bryant']],
+  ['Sportifs','Champions olympiques','REAL_PERSON',['Usain Bolt','Michael Phelps','Simone Biles','Léon Marchand']],
+  ['Musique','Chanson française','REAL_PERSON',['Stromae','Angèle','Vianney','Clara Luciani']],
+  ['Musique','Pop et rock','REAL_PERSON',['Ed Sheeran','Lady Gaga','Bruno Mars','Billie Eilish']],
+  ['Acteurs / Actrices','Hollywood','REAL_PERSON',['Leonardo DiCaprio','Brad Pitt','Tom Cruise','Johnny Depp']],
+  ['Acteurs / Actrices','Actrices internationales','REAL_PERSON',['Emma Watson','Scarlett Johansson','Jennifer Lawrence','Zendaya']],
+  ['Sciences','Scientifiques célèbres','REAL_PERSON',['Albert Einstein','Marie Curie','Stephen Hawking','Charles Darwin']],
+  ['Arts et littérature','Écrivains et artistes','REAL_PERSON',['Victor Hugo','Agatha Christie','Stephen King','Frida Kahlo']],
+  ['Sportifs','Légendes du football','REAL_PERSON',['Pelé','Zinédine Zidane','Ronaldinho','David Beckham']],
+  ['Sportifs','Football international','REAL_PERSON',['Neymar','Karim Benzema','Antoine Griezmann','Mohamed Salah']],
+  ['Sportifs','Championnes de tennis','REAL_PERSON',['Serena Williams','Venus Williams','Naomi Osaka','Iga Świątek']],
+  ['Sportifs','Formule 1','REAL_PERSON',['Lewis Hamilton','Max Verstappen','Charles Leclerc','Fernando Alonso']],
+  ['Sportifs','Champions français','REAL_PERSON',['Teddy Riner','Antoine Dupont','Florent Manaudou','Tony Parker']],
+  ['Musique','Icônes de la pop','REAL_PERSON',['Michael Jackson','Madonna','Prince','Whitney Houston']],
+  ['Musique','Grandes voix','REAL_PERSON',['Céline Dion','Adele','Shakira','Jennifer Lopez']],
+  ['Musique','Rap américain','REAL_PERSON',['Eminem','Snoop Dogg','Drake','Nicki Minaj']],
+  ['Musique','Rap français','REAL_PERSON',['Orelsan','Booba','MC Solaar','Soprano']],
+  ['Musique','Chanteurs français','REAL_PERSON',['Jean-Jacques Goldman','Patrick Bruel','Florent Pagny','Pascal Obispo']],
+  ['Musique','Légendes du rock','REAL_PERSON',['David Bowie','Freddie Mercury','Elton John','Paul McCartney']],
+  ['Acteurs / Actrices','Cinéma d’action','REAL_PERSON',['Dwayne Johnson','Arnold Schwarzenegger','Jason Statham','Keanu Reeves']],
+  ['Acteurs / Actrices','Légendes de Hollywood','REAL_PERSON',['Morgan Freeman','Samuel L. Jackson','Robert De Niro','Al Pacino']],
+  ['Acteurs / Actrices','Grandes actrices','REAL_PERSON',['Meryl Streep','Julia Roberts','Nicole Kidman','Angelina Jolie']],
+  ['Créateurs Internet','Vidéastes français','REAL_PERSON',['Natoo','EnjoyPhoenix','Inoxtag','HugoDécrypte']],
+  ['Célébrités','Chefs cuisiniers','REAL_PERSON',['Gordon Ramsay','Cyril Lignac','Philippe Etchebest','Jamie Oliver']],
+  ['Célébrités','Animateurs télé','REAL_PERSON',['Michel Drucker','Nagui','Arthur','Laurent Ruquier']],
 ];
 export const characters: Character[] = groups.flatMap(([category, work_name, image_type, names], g) => names.map((value,i) => {
   const [character_name, actor_name] = value.split('|');
@@ -35,7 +60,14 @@ export const characters: Character[] = groups.flatMap(([category, work_name, ima
   return { id, character_name, actor_name:actor_name ?? null, work_name, category, subcategory:work_name, tags:[work_name,category], difficulty:'easy', image_url:image?.asset??null,image_source:image?.source??null,image_license:image?.license??null,image_attribution:image?[...new Set([image.author,image.attribution].filter(Boolean))].join(' · '):null,image_type,image_status:image?.visualVerified?'verified':'pending',image_license_url:image?.licenseUrl??null,image_review:image??null };
 }));
 // Curated within each universe; all three difficulties have explicit pair records.
-export const pairs: Pair[] = groups.flatMap((_,g) => [
+export const pairs: Pair[] = groups.flatMap((_,g) => g>=19 ? [
+  {a:`c${g}-0`,b:`c${g}-3`,difficulty:'easy' as const},
+  {a:`c${g}-1`,b:`c${g}-2`,difficulty:'easy' as const},
+  {a:`c${g}-0`,b:`c${g}-1`,difficulty:'medium' as const},
+  {a:`c${g}-2`,b:`c${g}-3`,difficulty:'medium' as const},
+  {a:`c${g}-0`,b:`c${g}-2`,difficulty:'hard' as const},
+  {a:`c${g}-1`,b:`c${g}-3`,difficulty:'hard' as const},
+] : [
   {a:`c${g}-0`,b:`c${g}-3`,difficulty:'easy' as const},
   {a:`c${g}-0`,b:`c${g}-1`,difficulty:'medium' as const},
   {a:`c${g}-1`,b:`c${g}-2`,difficulty:'medium' as const},
@@ -51,3 +83,4 @@ export const collections = [...new Set(playableCharacters.map(c=>c.work_name))];
 export function character(id:string) { const c=characters.find(c=>c.id===id); if(!c) throw new Error('Personnage introuvable.'); return c; }
 export interface ImageProvider { resolve(character: Character): {src:string|null; attribution:string|null}; }
 export const licensedImageProvider:ImageProvider = { resolve(c) { return {src:hasVerifiedImage(c)?c.image_url:null,attribution:c.image_attribution}; } };
+

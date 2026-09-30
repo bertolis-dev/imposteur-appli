@@ -1,0 +1,107 @@
+{
+  "query": {
+    "pages": {
+      "53803565": {
+        "pageid": 53803565,
+        "ns": 6,
+        "title": "File:Alonso 2016.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 231138,
+            "width": 896,
+            "height": 1121,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alonso_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 799,
+            "thumbheight": 1000,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alonso_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 799,
+              "height": 1000
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alonso_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alonso_2016.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53803565",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-12-05 17:17:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Alonso 2016",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Fernando Alonso in 2016|Extracted images|Flickr images reviewed by trusted users|Men looking at viewer|Men smiling with teeth|Portrait photographs of Fernando Alonso",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Fernando Alonso at 2016 Moto GP Italian Grand Prix.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-05-21 16:42:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/box_repsol/26877535660/\">https://www.flickr.com/photos/box_repsol/26877535660/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/box_repsol/\">Box Repsol | Flickr</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

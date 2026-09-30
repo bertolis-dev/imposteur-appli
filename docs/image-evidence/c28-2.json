@@ -1,0 +1,97 @@
+{
+  "query": {
+    "pages": {
+      "70904093": {
+        "pageid": 70904093,
+        "ns": 6,
+        "title": "File:Antoine Griezmann World Cup Trophy.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 170412,
+            "width": 375,
+            "height": 641,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Antoine_Griezmann_World_Cup_Trophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antoine_Griezmann_World_Cup_Trophy.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70904093",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-07-16 14:41:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Antoine Griezmann World Cup Trophy",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Final of the 2018 FIFA World Cup|License migration redundant|Items with VRTS permission confirmed|Photos from soccer.ru|People with FIFA World Cup trophy|Sportspeople holding trophies|Antoine Griezmann in 2018",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "French footballer Antoine Griezmann holding the FIFA World Cup Trophy after the tournament's final match on 15 July 2018.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.soccer.ru/galery/1058179/photo/737122\">https://www.soccer.ru/galery/1058179/photo/737122</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Антон Зайцев",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

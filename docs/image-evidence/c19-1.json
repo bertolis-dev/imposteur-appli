@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Lebron_James_2022small.jpg",
+        "to": "File:Lebron James 2022small.jpg"
+      }
+    ],
+    "pages": {
+      "168449622": {
+        "pageid": 168449622,
+        "ns": 6,
+        "title": "File:Lebron James 2022small.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1261322,
+            "width": 1200,
+            "height": 1600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lebron_James_2022small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lebron_James_2022small.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168449622",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-06-24 19:32:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Lebron James 2022small",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "LeBron James in 2022",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "LeBron James in 2022 vs Cleveland",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-03-21",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg\" title=\"File:LeBron James (51959977144) (cropped2).jpg\">File:LeBron_James_(51959977144)_(cropped2).jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Erik Drost",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

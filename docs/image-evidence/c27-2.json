@@ -1,0 +1,97 @@
+{
+  "query": {
+    "pages": {
+      "88049389": {
+        "pageid": 88049389,
+        "ns": 6,
+        "title": "File:Ronaldinho in 2019.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 493282,
+            "width": 735,
+            "height": 981,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ronaldinho_in_2019.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88049389",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-11-19 15:31:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ronaldinho in 2019",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR 2|Ronaldinho Gaúcho in 2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "(Brasília - DF, 17/06/2019) Encontro com Gilson Machado, Presidente do Instituto Brasileiro do Turismo; e Ronaldinho Gaúcho, ex-jogador de futebol.Foto: Marcos Corrêa/PR",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2019-06-17 13:23:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/palaciodoplanalto/48080825362/in/photolist-97SkVC-E283V7-MCBtZS-2gfJNgC-2gfJMTP-2gfJN9t-2gfJixz-2gfJiAf-2gfJro6-2gfJrKZ-2gfJitX-2gfJiHp-2gfJNpt-2gfJNtb-6GmYsY-2NhhB-83qjKt\">Palácio do Planalto</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Marcos Corrêa/PR",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
